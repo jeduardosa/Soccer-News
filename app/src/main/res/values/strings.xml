@@ -2,4 +2,5 @@
     <string name="app_name">Soccer News</string>
     <string name="title_news">News</string>
     <string name="title_favorites">Favorites</string>
+    <string name="openLink">Open link</string>
 </resources>
