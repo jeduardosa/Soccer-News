@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="openLink">Open link</string>
+    <string name="cd_share_icon">Share icon</string>
+    <string name="cd_favorite_icon">Favorite Icon</string>
+    <string name="thumbnail">Thumbnail</string>
+</resources>
