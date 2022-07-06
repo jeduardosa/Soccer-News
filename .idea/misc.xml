@@ -11,11 +11,14 @@
         <entry key="..\:/Users/0M3GH4/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/nes_item.xml" value="0.33" />
         <entry key="..\:/Users/0M3GH4/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/news_item.xml" value="0.33106884057971014" />
         <entry key="..\:/Users/0M3GH4/AndroidStudioProjects/SoccerNews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33177083333333335" />
+<<<<<<< HEAD
         <entry key="..\:/Users/joao.santos/AndroidStudioProjects/Soccer-News/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/joao.santos/AndroidStudioProjects/Soccer-News/app/src/main/res/layout/fragment_favorites.xml" value="0.25" />
         <entry key="..\:/Users/joao.santos/AndroidStudioProjects/Soccer-News/app/src/main/res/layout/fragment_news.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/joao.santos/AndroidStudioProjects/Soccer-News/app/src/main/res/layout/news_item.xml" value="0.33" />
         <entry key="..\:/Users/joao.santos/AndroidStudioProjects/Soccer-News/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+=======
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
       </map>
     </option>
   </component>

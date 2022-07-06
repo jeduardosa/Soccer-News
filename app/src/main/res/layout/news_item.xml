@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/card"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+<<<<<<< HEAD
     android:layout_margin="@dimen/default_margin">
+=======
+    android:layout_margin="@dimen/default_half_margin">
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
+<<<<<<< HEAD
         app:layout_constraintTop_toTopOf="parent">
+=======
+        android:padding="16dp">
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
 
         <ImageView
             android:id="@+id/ivThumbnail"
             android:layout_width="match_parent"
+<<<<<<< HEAD
             android:layout_height="150dp"
             android:contentDescription="@string/thumbnail"
+=======
+            android:layout_height="300dp"
+            android:scaleType="centerCrop"
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
@@ -25,6 +43,7 @@
 
         <TextView
             android:id="@+id/tvTitle"
+<<<<<<< HEAD
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
@@ -48,6 +67,25 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tvTitle"
             tools:text="As meninas da feirinha derrotaram o palmeiras no último jogo" />
+=======
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            tools:text="Ferroviaria Vence Palmeiras"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivThumbnail" />
+
+        <TextView
+            android:id="@+id/tvDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            tools:text="As meninas da feirinha derrotaram o palmeiras no último jogo"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvTitle" />
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
 
         <Button
             android:id="@+id/btOpenLink"
@@ -63,7 +101,10 @@
             android:id="@+id/ivFavorite"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:contentDescription="@string/cd_favorite_icon"
+=======
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
             app:layout_constraintBottom_toBottomOf="@+id/btOpenLink"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@+id/btOpenLink"
@@ -74,7 +115,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="16dp"
+<<<<<<< HEAD
             android:contentDescription="@string/cd_share_icon"
+=======
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
             app:layout_constraintBottom_toBottomOf="@+id/ivFavorite"
             app:layout_constraintEnd_toStartOf="@+id/ivFavorite"
             app:layout_constraintTop_toTopOf="@+id/ivFavorite"

@@ -23,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
+<<<<<<< HEAD
+=======
+        BottomNavigationView navView = findViewById(R.id.nav_view);
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(

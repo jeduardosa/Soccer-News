@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="openLink">Open link</string>
+<<<<<<< HEAD
     <string name="cd_share_icon">Share icon</string>
     <string name="cd_favorite_icon">Favorite Icon</string>
     <string name="thumbnail">Thumbnail</string>
+=======
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
 </resources>

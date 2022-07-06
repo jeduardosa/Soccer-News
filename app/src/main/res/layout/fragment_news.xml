@@ -8,13 +8,21 @@
     tools:context=".ui.news.NewsFragment">
 
     <androidx.recyclerview.widget.RecyclerView
+<<<<<<< HEAD
         android:id="@+id/rvNews"
+=======
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< HEAD
         tools:listitem="@layout/news_item"/>
 
+=======
+        tools:listitem="@layout/news_item"
+        />
+>>>>>>> 06e290e1dd7ada5051a1805e5d6e4f635dfe7790
 </androidx.constraintlayout.widget.ConstraintLayout>
