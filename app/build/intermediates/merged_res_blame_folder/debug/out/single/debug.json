@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "learn.project.soccernews.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/layout_fragment_news.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable_ic_favorite_24.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/drawable/ic_favorite_24.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable_ic_share_24.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/drawable/ic_share_24.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/navigation_mobile_navigation.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable_ic_soccer_24.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/drawable/ic_soccer_24.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/layout_news_item.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/layout/news_item.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/menu_bottom_nav_menu.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/layout_fragment_favorites.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/drawable_icone_robot_android_vert.png.flat",
+        "source": "learn.project.soccernews.app-main-39:/drawable/icone_robot_android_vert.png"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "learn.project.soccernews.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "learn.project.soccernews.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
