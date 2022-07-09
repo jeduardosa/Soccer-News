@@ -4,7 +4,7 @@
             "outputFile": "learn.project.soccernews.app-mergeDebugResources-35:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\joao.santos\\AndroidStudioProjects\\Soccer-News\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\joao.santos\\.gradle\\caches\\transforms-3\\6dd341f1aaa781be49a8f752078a6907\\transformed\\material-1.6.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\0M3GH4\\.gradle\\caches\\transforms-3\\6dd341f1aaa781be49a8f752078a6907\\transformed\\material-1.6.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\joao.santos\\.gradle\\caches\\transforms-3\\69592bd19cec1de513dd3643bec51fc2\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\src\\main\\res\\values-night\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "49",
+                        "endOffsets": "145"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\0M3GH4\\.gradle\\caches\\transforms-3\\69592bd19cec1de513dd3643bec51fc2\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -57,24 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\joao.santos\\AndroidStudioProjects\\Soccer-News\\app\\src\\main\\res\\values-night\\dimens.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "49",
-                        "endOffsets": "145"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\joao.santos\\AndroidStudioProjects\\Soccer-News\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "source": "C:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\src\\main\\res\\values-night\\strings.xml",
                     "from": {
                         "startLines": "4,3,2,5",
                         "startColumns": "4,4,4,4",
