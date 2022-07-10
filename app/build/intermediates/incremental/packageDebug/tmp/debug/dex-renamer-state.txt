@@ -1,4 +1,4 @@
-#Sat Jul 09 10:24:25 BRT 2022
+#Sun Jul 10 16:26:08 BRT 2022
 base.0=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
@@ -6,6 +6,7 @@ base.3=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\interm
 base.4=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
 base.5=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
 base.6=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.7=C\:\\Users\\0M3GH4\\AndroidStudioProjects\\SoccerNews\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=10/classes.dex
@@ -13,6 +14,7 @@ path.3=13/classes.dex
 path.4=15/classes.dex
 path.5=2/classes.dex
 path.6=5/classes.dex
+path.7=4/classes.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex
@@ -20,3 +22,4 @@ renamed.3=classes4.dex
 renamed.4=classes5.dex
 renamed.5=classes6.dex
 renamed.6=classes7.dex
+renamed.7=classes8.dex
