@@ -8,6 +8,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import java.lang.NullPointerException;
@@ -22,9 +23,14 @@ public final class FragmentNewsBinding implements ViewBinding {
   @NonNull
   public final RecyclerView rvNews;
 
-  private FragmentNewsBinding(@NonNull ConstraintLayout rootView, @NonNull RecyclerView rvNews) {
+  @NonNull
+  public final SwipeRefreshLayout srlNews;
+
+  private FragmentNewsBinding(@NonNull ConstraintLayout rootView, @NonNull RecyclerView rvNews,
+      @NonNull SwipeRefreshLayout srlNews) {
     this.rootView = rootView;
     this.rvNews = rvNews;
+    this.srlNews = srlNews;
   }
 
   @Override
@@ -60,7 +66,13 @@ public final class FragmentNewsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentNewsBinding((ConstraintLayout) rootView, rvNews);
+      id = R.id.srlNews;
+      SwipeRefreshLayout srlNews = ViewBindings.findChildViewById(rootView, id);
+      if (srlNews == null) {
+        break missingId;
+      }
+
+      return new FragmentNewsBinding((ConstraintLayout) rootView, rvNews, srlNews);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

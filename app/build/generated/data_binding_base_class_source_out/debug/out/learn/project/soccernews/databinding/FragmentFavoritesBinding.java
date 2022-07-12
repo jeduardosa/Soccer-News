@@ -4,10 +4,10 @@ package learn.project.soccernews.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import java.lang.NullPointerException;
@@ -20,12 +20,12 @@ public final class FragmentFavoritesBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textFavorites;
+  public final RecyclerView rvNews;
 
   private FragmentFavoritesBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textFavorites) {
+      @NonNull RecyclerView rvNews) {
     this.rootView = rootView;
-    this.textFavorites = textFavorites;
+    this.rvNews = rvNews;
   }
 
   @Override
@@ -55,13 +55,13 @@ public final class FragmentFavoritesBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_favorites;
-      TextView textFavorites = ViewBindings.findChildViewById(rootView, id);
-      if (textFavorites == null) {
+      id = R.id.rvNews;
+      RecyclerView rvNews = ViewBindings.findChildViewById(rootView, id);
+      if (rvNews == null) {
         break missingId;
       }
 
-      return new FragmentFavoritesBinding((ConstraintLayout) rootView, textFavorites);
+      return new FragmentFavoritesBinding((ConstraintLayout) rootView, rvNews);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

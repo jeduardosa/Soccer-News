@@ -1,22 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-mergeDebugResources-36:\\layout\\fragment_news.xml",
-        "source": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-main-39:\\layout\\fragment_news.xml"
+        "merged": "learn.project.soccernews.app-mergeDebugResources-40:/layout/fragment_news.xml",
+        "source": "learn.project.soccernews.app-main-43:/layout/fragment_news.xml"
     },
     {
-        "merged": "learn.project.soccernews.app-mergeDebugResources-36:/layout/activity_main.xml",
-        "source": "learn.project.soccernews.app-main-39:/layout/activity_main.xml"
+        "merged": "learn.project.soccernews.app-mergeDebugResources-40:/layout/fragment_favorites.xml",
+        "source": "learn.project.soccernews.app-main-43:/layout/fragment_favorites.xml"
     },
     {
-        "merged": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-mergeDebugResources-36:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-main-39:\\layout\\activity_main.xml"
+        "merged": "learn.project.soccernews.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "learn.project.soccernews.app-main-43:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-mergeDebugResources-36:\\layout\\fragment_favorites.xml",
-        "source": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-main-39:\\layout\\fragment_favorites.xml"
-    },
-    {
-        "merged": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-mergeDebugResources-36:\\layout\\news_item.xml",
-        "source": "C:\\Users\\0M3GH4\\.gradle\\daemon\\7.3.3\\learn.project.soccernews.app-main-39:\\layout\\news_item.xml"
+        "merged": "learn.project.soccernews.app-mergeDebugResources-40:/layout/news_item.xml",
+        "source": "learn.project.soccernews.app-main-43:/layout/news_item.xml"
     }
 ]
