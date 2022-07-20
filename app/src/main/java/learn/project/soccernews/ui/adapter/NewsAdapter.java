@@ -86,5 +86,6 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.ViewHolder> {
 
     public interface FavoriteListener {
         void onFavorite(News news);
+
     }
 }
