@@ -53,4 +53,6 @@ string thumbnail
 string title_favorites
 string title_news
 string txt_open_link
+style AppTheme
+style AppTheme.NoActionBar
 style Theme.SoccerNews

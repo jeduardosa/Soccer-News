@@ -3416,6 +3416,8 @@ int style Animation_AppCompat_DropDownUp 0x7f110004
 int style Animation_AppCompat_Tooltip 0x7f110005
 int style Animation_Design_BottomSheetDialog 0x7f110006
 int style Animation_MaterialComponents_BottomSheetDialog 0x7f110007
+int style AppTheme 0x7f11041e
+int style AppTheme_NoActionBar 0x7f11041f
 int style Base_AlertDialog_AppCompat 0x7f110008
 int style Base_AlertDialog_AppCompat_Light 0x7f110009
 int style Base_Animation_AppCompat_Dialog 0x7f11000a

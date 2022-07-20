@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Soccer News</string>
+    <string name="title_news">Super Campeões</string>
+    <string name="title_favorites">Favorites</string>
     <string name="openLink">Open link</string>
     <string name="cd_share_icon">Share icon</string>
     <string name="cd_favorite_icon">Favorite Icon</string>
     <string name="thumbnail">Thumbnail</string>
+
+    <string name="txt_open_link">Open Link</string>
+    <string name="error_network">Network error.</string>
+
 </resources>

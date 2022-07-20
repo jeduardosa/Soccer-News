@@ -31,80 +31,81 @@
 20-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:13:9-54
 21        android:supportsRtl="true"
 21-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:14:9-35
-22        android:theme="@style/Theme.SoccerNews" >
-22-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:15:9-48
-23        <activity
-23-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:16:9-25:20
-24            android:name="learn.project.soccernews.ui.MainActivity"
-24-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:17:13-44
-25            android:exported="true"
-25-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:18:13-36
-26            android:label="@string/app_name" >
-26-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:19:13-45
-27            <intent-filter>
-27-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:20:13-24:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:21:17-69
-28-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:21:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:23:17-77
-30-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:23:27-74
-31            </intent-filter>
-32        </activity>
-33
-34        <provider
-34-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
-35            android:name="com.squareup.picasso.PicassoProvider"
-35-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
-36            android:authorities="learn.project.soccernews.com.squareup.picasso"
-36-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
-37            android:exported="false" />
-37-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
-38
-39        <service
-39-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:25:9-28:40
-40            android:name="androidx.room.MultiInstanceInvalidationService"
-40-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:26:13-74
-41            android:directBootAware="true"
-41-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:27:13-43
-42            android:exported="false" />
-42-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:28:13-37
-43
-44        <provider
-44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-45            android:name="androidx.startup.InitializationProvider"
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-46            android:authorities="learn.project.soccernews.androidx-startup"
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-47            android:exported="false" >
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-48            <meta-data
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-50                android:value="androidx.startup" />
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-51            <meta-data
-51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joao.santos\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joao.santos\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-53                android:value="androidx.startup" />
-53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joao.santos\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-54        </provider>
-55
-56        <uses-library
-56-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-57            android:name="androidx.window.extensions"
-57-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-58            android:required="false" />
-58-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-59        <uses-library
-59-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-60            android:name="androidx.window.sidecar"
-60-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-61            android:required="false" />
-61-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-62    </application>
-63
-64</manifest>
+22        android:testOnly="true"
+23        android:theme="@style/Theme.SoccerNews" >
+23-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:15:9-48
+24        <activity
+24-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:16:9-25:20
+25            android:name="learn.project.soccernews.ui.MainActivity"
+25-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:17:13-44
+26            android:exported="true"
+26-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:18:13-36
+27            android:label="@string/app_name" >
+27-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:19:13-45
+28            <intent-filter>
+28-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:20:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:21:17-69
+29-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:23:17-77
+31-->C:\Users\joao.santos\AndroidStudioProjects\Soccer-News\app\src\main\AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+36            android:name="com.squareup.picasso.PicassoProvider"
+36-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+37            android:authorities="learn.project.soccernews.com.squareup.picasso"
+37-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+38            android:exported="false" />
+38-->[com.squareup.picasso:picasso:2.8] C:\Users\joao.santos\.gradle\caches\transforms-3\05255b021304aef3ccd36610e9446b06\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+39
+40        <service
+40-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:25:9-28:40
+41            android:name="androidx.room.MultiInstanceInvalidationService"
+41-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:26:13-74
+42            android:directBootAware="true"
+42-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:27:13-43
+43            android:exported="false" />
+43-->[androidx.room:room-runtime:2.4.1] C:\Users\joao.santos\.gradle\caches\transforms-3\4a22a83c89f84b0509040816a59a3cc5\transformed\room-runtime-2.4.1\AndroidManifest.xml:28:13-37
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+47            android:authorities="learn.project.soccernews.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joao.santos\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joao.santos\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joao.santos\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+55        </provider>
+56
+57        <uses-library
+57-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+58            android:name="androidx.window.extensions"
+58-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+59            android:required="false" />
+59-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+60        <uses-library
+60-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+61            android:name="androidx.window.sidecar"
+61-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+62            android:required="false" />
+62-->[androidx.window:window:1.0.0] C:\Users\joao.santos\.gradle\caches\transforms-3\e76a7549cd3482ebe8c44ae2df2a404e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+63    </application>
+64
+65</manifest>

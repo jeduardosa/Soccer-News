@@ -20,8 +20,13 @@
     <string name="openLink">Open link</string>
     <string name="thumbnail">Thumbnail</string>
     <string name="title_favorites">Favorites</string>
-    <string name="title_news">News</string>
+    <string name="title_news">Super Campeões</string>
     <string name="txt_open_link">Open Link</string>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
     <style name="Theme.SoccerNews" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
